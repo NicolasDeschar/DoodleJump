@@ -486,9 +486,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   platforme_force: 10
   score: {fileID: 1440219044}
 =======
+=======
+>>>>>>> Stashed changes
   platforme_force: 12
   score: {fileID: 0}
 >>>>>>> Stashed changes
