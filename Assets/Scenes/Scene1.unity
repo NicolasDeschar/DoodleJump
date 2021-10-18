@@ -487,9 +487,12 @@ MonoBehaviour:
   speed: 10
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   platforme_force: 10
   score: {fileID: 1440219044}
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   platforme_force: 12
